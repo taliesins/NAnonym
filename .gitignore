@@ -43,3 +43,5 @@
 *.sdf
 *.tlog
 *.locked
+/packages
+/.vs
